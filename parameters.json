@@ -1,0 +1,18 @@
+{
+  "CONNECTIVITY_SUBSCRIPTION_ID": "cbd1cef4-f337-4a72-aa11-2feb0d4229b9",
+  "MANAGEMENT_GROUP_ID": "etai",
+  "LOGGING_RESOURCE_GROUP": "rg-etai-logging",
+  "PREFIX": "etai",
+  "LOCATION": "uksouth",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "f8e895a8-db4d-4051-a426-643d19e0fb66",
+  "RELEASE_VERSION": "v0.19.2",
+  "MANAGEMENT_SUBSCRIPTION_ID": "dae76372-f942-41ac-bb74-ca48fa0c27c5",
+  "IDENTITY_SUBSCRIPTION_ID": "078a4741-3169-463d-b30f-feb341a1c79b",
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "NETWORK_TYPE": "hubNetworking",
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-etai-connectivity"
+}
